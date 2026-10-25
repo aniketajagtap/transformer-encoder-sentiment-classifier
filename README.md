@@ -1,7 +1,5 @@
 # Mini NLP Project: Transformer Encoder for Sentiment Classification
 
-# Mini NLP Project: Transformer Encoder for Sentiment Classification
-
 This notebook demonstrates the core building blocks of a Transformer encoder by implementing a small sentiment classifier in PyTorch.
 
 ## Project overview
